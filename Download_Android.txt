@@ -1,0 +1,18 @@
+
+Download all software
+1. splashtop
+https://my.splashtop.com/team_deployment/download/YTWW425Y523R
+
+2. Anydesk
+https://anydesk.com/
+
+3. Xampp (3.2.1 only) - xampp-win32-5.5.19-0-VC11-installer
+https://1drv.ms/u/s!AmDGd6SkM5JOgUPRwCp7ravUhGb1?e=YAFzfb
+
+4. Android Studio
+https://developer.android.com/studio
+ 
+5. Notepad
+https://notepad-plus-plus.org/downloads/v8.1.2/
+
+
